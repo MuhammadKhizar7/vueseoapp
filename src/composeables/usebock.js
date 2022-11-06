@@ -20,6 +20,10 @@ export const useblock = () => {
       id: 5,
       title: 'title 5',
     },
+    {
+      id: 6,
+      title: 'title 6',
+    },
   ]
   return blocks
 }
